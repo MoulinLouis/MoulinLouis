@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/MoulinLouis">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Mon+nom+est+Louis+Moulin.;Bienvenue+sur+mon+profil!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Je+m'appelle+Louis+Moulin.;Bienvenue+sur+mon+profil!&center=true&size=27">
   </a>
 </h1>
 
