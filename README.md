@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://github.com/MoulinLouis">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoulinLouis&show_icons=true&text_color=000&icon_color=000&bg_color=0,ffffff,c64dff&theme=graywhite" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=MoulinLouis&show_icons=true&text_color=000&icon_color=000&bg_color=0,F5F7FA,B8C6DB&theme=graywhite" height="165">
   </a>
   <a href="https://github.com/MoulinLouis">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoulinLouis&layout=compact&text_color=000&icon_color=fff&bg_color=0,c64dff,ffffff&theme=graywhite"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoulinLouis&layout=compact&text_color=000&icon_color=fff&bg_color=0,B8C6DB,F5F7FA&theme=graywhite"  height="165">
   </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
