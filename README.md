@@ -14,6 +14,7 @@
 [![](https://img.shields.io/badge/-💻%20cryptodex%20cli-000)](https://github.com/MoulinLouis/cryptodex)
 [![](https://img.shields.io/badge/-🎮%20ubapbap-000)](https://github.com/MoulinLouis/ubapbap)
 [![](https://img.shields.io/badge/-🚫%20easy%20twitch%20adblocker-000)](https://github.com/MoulinLouis/Easy-TwitchAdBlocker)
+[![](https://img.shields.io/badge/-🐲%20pwa%20slides-000)](https://github.com/MoulinLouis/pwa-slides)
 
 <h1 align="center"> 🤯 My statistics: </h1>
 
