@@ -1,6 +1,6 @@
 const readme = `
 <pre>
-_                 _        ___  ___            _ _       
+ _                 _        ___  ___            _ _       
 | |               (_)       |  \\/  |           | (_)      
 | |     ___  _   _ _ ___    | .  . | ___  _   _| |_ _ __  
 | |    / _ \\| | | | / __|   | |\\/| |/ _ \\| | | | | | '_ \\ 
@@ -35,7 +35,7 @@ _                 _        ___  ___            _ _
 
 <div align="center">
 <a href="https://github.com/MoulinLouis">
- <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MoulinLouis.MoulinLouis&style=for-the-badge">
+ <img src="https://komarev.com/ghpvc/?username=MoulinLouis&style=for-the-badge">
 <a>
 </div>
 
