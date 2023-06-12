@@ -27,15 +27,15 @@ jobs:
         id: random-commit
         run: |
           commitMessages=(
-            "README: A touch of awesomeness ✨"
-            "README: Unleash the dragons 🐉"
-            "README makeover in progress 💅"
-            "README: Level up your coding skills 🚀"
-            "README: Unlocking the secrets of the universe 🌌"
-            "README: The journey begins... 🗺️"
-            "README: Embrace the power of open source ❤️"
-            "README: Dancing code snippets 💃"
-            "README: Conquer the world with code 🌍"
+            "readme: a touch of awesomeness ✨"
+            "readme: unleash the dragons 🐉"
+            "readme: makeover in progress 💅"
+            "readme: level up your coding skills 🚀"
+            "readme: unlocking the secrets of the universe 🌌"
+            "readme: the journey begins... 🗺️"
+            "readme: embrace the power of open source ❤️"
+            "readme: one in 10 chance of being chosen 🍀"
+            "readme: conquer the world with code 🌍"
           )
           randomIndex=$(( RANDOM % ${#commitMessages[@]} ))
           randomMessage=${commitMessages[$randomIndex]}
