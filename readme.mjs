@@ -10,11 +10,12 @@ const readme = `
 </pre>
 
 ### My projects
-[![](https://img.shields.io/badge/-🌍%20Odyssey-000)](https://github.com/MoulinLouis/ODYSSEY)
-[![](https://img.shields.io/badge/-🐲%20pwa%20slides-000)](https://github.com/MoulinLouis/pwa-slides)
-[![](https://img.shields.io/badge/-💻%20cryptodex%20cli-000)](https://github.com/MoulinLouis/cryptodex)
-[![](https://img.shields.io/badge/-🎮%20ubapbap-000)](https://github.com/MoulinLouis/ubapbap)
-[![](https://img.shields.io/badge/-🚫%20easy%20twitch%20adblocker-000)](https://github.com/MoulinLouis/Easy-TwitchAdBlocker)
+[![](https://img.shields.io/badge/-📞%20harmony-000)](https://github.com/ghost-brigade/harmony)
+[![](https://img.shields.io/badge/-💻%20carbon-000)](https://github.com/ghost-brigade/carbon)
+[![](https://img.shields.io/badge/-💻%20ghost-riders-000)](https://github.com/ghost-brigade/ghost-riders)
+[![](https://img.shields.io/badge/-🐲%pwa%20slides-000)](https://github.com/MoulinLouis/pwa-slides)
+[![](https://img.shields.io/badge/-🌍%20odyssey-000)](https://github.com/MoulinLouis/ODYSSEY)
+[![](https://img.shields.io/badge/-🤑%20cryptodex%20cli-000)](https://github.com/MoulinLouis/cryptodex)
 
 <h1 align="center"> 🤯 My statistics: </h1>
 
