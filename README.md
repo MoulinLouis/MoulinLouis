@@ -12,7 +12,7 @@
 ### My projects
 [![](https://img.shields.io/badge/-📞%20harmony-000)](https://github.com/ghost-brigade/harmony)
 [![](https://img.shields.io/badge/-💻%20carbon-000)](https://github.com/ghost-brigade/carbon)
-[![](https://img.shields.io/badge/-💻%20ghost%20riders-000)](https://github.com/ghost-brigade/ghost-riders)
+[![](https://img.shields.io/badge/-🏍️%20ghost%20riders-000)](https://github.com/ghost-brigade/ghost-riders)
 [![](https://img.shields.io/badge/-🐲%20pwa%20slides-000)](https://github.com/MoulinLouis/pwa-slides)
 [![](https://img.shields.io/badge/-🌍%20odyssey-000)](https://github.com/MoulinLouis/ODYSSEY)
 [![](https://img.shields.io/badge/-🤑%20cryptodex%20cli-000)](https://github.com/MoulinLouis/cryptodex)
@@ -40,5 +40,5 @@
 <a>
 </div>
 
-<br><br>*<small>last update: 7/10/2023, 2:23:17 PM </small>*
+<br><br>*<small>last update: 7/10/2023, 2:25:10 PM </small>*
 
